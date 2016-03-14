@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_consulta1" value="name:id;datatype:int,name:usuario;datatype:string,name:contrasena;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:rut;datatype:string,name:telefono;datatype:int,name:celular;datatype:int,name:numero_sitio;datatype:string,name:direccion;datatype:string,name:email;datatype:string,name:privilegios;datatype:blob" />
+	<infoitem key="UD_editarcontrasena" value="name:id;datatype:int,name:usuario;datatype:string,name:contrasena;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:rut;datatype:string,name:telefono;datatype:int,name:celular;datatype:int,name:numero_sitio;datatype:string,name:direccion;datatype:string,name:email;datatype:string,name:privilegios;datatype:blob" />
+	<infoitem key="UD_editar" value="name:id;datatype:int,name:usuario;datatype:string,name:contrasena;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:rut;datatype:string,name:telefono;datatype:int,name:celular;datatype:int,name:numero_sitio;datatype:string,name:direccion;datatype:string,name:email;datatype:string,name:privilegios;datatype:blob" />
+</info>

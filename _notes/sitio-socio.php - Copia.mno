@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_estado_cuenta" value="name:id;datatype:int,name:id_usuario;datatype:int,name:mes;datatype:int,name:año;datatype:int,name:monto;datatype:int" />
+	<infoitem key="UD_consulta2" value="name:id;datatype:int,name:id_usuario;datatype:int,name:mes;datatype:int,name:año;datatype:int,name:monto;datatype:int" />
+</info>

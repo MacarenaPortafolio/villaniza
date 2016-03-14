@@ -1,0 +1,14 @@
+[26-Mar-2014 17:42:01] PHP Parse error:  syntax error, unexpected ';' in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 193
+[26-Mar-2014 17:42:13] PHP Parse error:  syntax error, unexpected ';' in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 193
+[26-Mar-2014 17:42:22] PHP Parse error:  syntax error, unexpected ';' in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 192
+[26-Mar-2014 17:47:59] PHP Parse error:  syntax error, unexpected ';' in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 192
+[26-Mar-2014 18:19:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 194
+[27-Mar-2014 13:08:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 194
+[27-Mar-2014 13:12:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 194
+[27-Mar-2014 13:12:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 194
+[27-Mar-2014 13:12:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 194
+[27-Mar-2014 13:14:22] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 194
+[27-Mar-2014 13:32:15] PHP Parse error:  syntax error, unexpected '{' in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 198
+[27-Mar-2014 13:33:37] PHP Parse error:  syntax error, unexpected '{' in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 198
+[27-Mar-2014 13:33:49] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 199
+[27-Mar-2014 13:34:29] PHP Parse error:  syntax error, unexpected '{' in /home/wwwsisch/public_html/sitio-villaniza/sitio-socio.php on line 198
